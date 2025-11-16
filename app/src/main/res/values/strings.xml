@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HealthyTable</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer_open">드로어 열기</string>
+    <string name="navigation_drawer_close">드로어 닫기</string>
+    <string-array name="sort_options">
+        <item>기본</item>
+        <item>당류 적은 순</item>
+        <item>나트륨 적은 순</item>
+        <item>열량 적은 순</item>
+    </string-array>
+</resources>

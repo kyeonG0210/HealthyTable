@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.HealthyTable" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">#4CAF50</item> <!-- 초록 -->
+        <item name="colorPrimaryVariant">#388E3C</item>
+        <item name="colorAccent">#4CAF50</item> <!-- 예전 버전 -->
+        <item name="colorControlActivated">#4CAF50</item> <!-- 드롭다운 포커스 색상 -->
+    </style>
+
+    <style name="Theme.HealthyTable" parent="Base.Theme.HealthyTable" />
+</resources>

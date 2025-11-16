@@ -1,0 +1,20 @@
+[
+  {
+    "name": "닭가슴살구이",
+    "calories": 165,
+    "sugar": 0.5,
+    "sodium": 120
+  },
+  {
+    "name": "미역국",
+    "calories": 75,
+    "sugar": 1.2,
+    "sodium": 300
+  },
+  {
+    "name": "잡곡밥",
+    "calories": 285,
+    "sugar": 0.7,
+    "sodium": 5
+  }
+]

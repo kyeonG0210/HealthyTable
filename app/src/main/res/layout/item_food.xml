@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="12dp"
+    android:background="#FFFFFF">
+
+    <TextView
+        android:id="@+id/foodNameText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="음식 이름"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="#222222" />
+
+    <TextView
+        android:id="@+id/caloriesText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="열량: -" />
+
+    <TextView
+        android:id="@+id/sugarText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="당류: -" />
+
+    <TextView
+        android:id="@+id/sodiumText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="나트륨: -" />
+
+</LinearLayout>
