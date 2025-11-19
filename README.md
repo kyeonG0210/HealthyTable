@@ -25,6 +25,6 @@ AI 기반 식단 추천 앱
 - Room DB, SharedPreferences
 - 공공데이터 API
 - Google Gemini API
-
-https://github.com/user-attachments/files/23620055/_20221309.pdf
+---
+- 프로젝트 소개 pdf (https://github.com/user-attachments/files/23620055/_20221309.pdf)
 
